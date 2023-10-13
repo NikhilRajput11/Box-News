@@ -1,1 +1,0 @@
-Developed an IPL score prediction model using machine learning to forecast cricket match scores.
